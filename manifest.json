@@ -1,0 +1,10 @@
+{
+  "name": "PM",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "主要なGoogleプロダクトを、アイコンクリックで一覧表示します。",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "pop_icon.png"
+  }
+}
